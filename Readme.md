@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Левашов](https://up.htmlacademy.ru/nodejs/2/user/142769).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Левашов](https://up.htmlacademy.ru/nodejs/2/user/142769).
 
 ---
 
