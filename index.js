@@ -1,6 +1,6 @@
 const args = process.argv.slice(2);
 
-switch(args[0]) {
+switch (args[0]) {
   case `--version`:
     console.log(`v0.0.1`);
     break;
